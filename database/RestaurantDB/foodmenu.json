@@ -1,0 +1,30 @@
+{
+    "f1": {
+        "name": "Coffee",
+        "price": 99
+    },
+    "f2": {
+        "name": "Burger",
+        "price": 79
+    },
+    "f3": {
+        "name": "Fries",
+        "price": 39
+    },
+    "f4": {
+        "name": "Sandwich",
+        "price": 59
+    },
+    "f5": {
+        "name": "Burger",
+        "price": 99
+    },
+    "f6": {
+        "name": "Pasta",
+        "price": 49
+    },
+    "f7": {
+        "name": "Salad",
+        "price": 69
+    }
+}
